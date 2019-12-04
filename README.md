@@ -5,7 +5,7 @@ HW0希望確保同學們能夠執行機器學習所需的一些基本操作。
  1. 讀取words.txt中的所有英文單字,英文單字之間皆由<space>做分隔
  2. 按照單字出現的順序,給予編號(0, 1, 2 ...)。 (不要跳號)
  3. 計算單字出現的次數。
- 4. 將得到編號和次數,由<font color="#dd000">單字出現在words.txt的順序</font><br />輸出至Q1.txt,最後一行不要換行,每一行皆為:<單字><space><編號><space><出現次數>
+ 4. 將得到編號和次數,由<font color="#dd0000">單字出現在words.txt的順序</font><br />輸出至Q1.txt,最後一行不要換行,每一行皆為:<單字><space><編號><space><出現次數>
  5. <font color="#dd0000">Ntu, ntu 為不同單字</font><br /> 
 
 ### Q1 出現單字統計 - 輸出範例
@@ -30,7 +30,7 @@ Q1.txt :(輸出的檔案)
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
 
-    git clone https://github.com/MMD-Training-2019/hw0-test-<username>.git
+    git clone https://github.com/MMD-Training-2019/hw0-<username>.git
 Note that you should replace `<username>` with your own GitHub username.
 
 ### Dataset
@@ -45,8 +45,11 @@ In the starter code of this repository, we have provided `word.txt` and `sumi.jp
 
 ### Submission Format
 Aside from your own Python scripts and model files, you should make sure that your submission includes *at least* the following files in the root directory of this repository:
- 1.   `hw2_<StudentID>.pdf`  
-The report of your homework assignment. Refer to the "*Grading Policy*" section in the slides for what you should include in the report. Note that you should replace `<StudentID>` with your student ID, **NOT** your GitHub username.
+ 1.   `hw0_<your_name>.pdf`  
+ 2.    `q1.py`
+可以執行並且產生`Q1.txt`
+ 3.    `q2.py`
+可以執行並且產生`Q2.jpg`
 
 # Q&A
 If you have any problems related to HW0, you may
