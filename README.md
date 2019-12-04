@@ -10,8 +10,10 @@ HW0希望確保同學們能夠執行機器學習所需的一些基本操作。
 
 ### Q1 出現單字統計 - 輸出範例
 words.txt 
+
     ntu ml mlds ml ntu ntuee
 Q1.txt :(輸出的檔案)
+
     ntu 0 2
     ml 1 2
     mlds 2 1
@@ -23,7 +25,7 @@ Q1.txt :(輸出的檔案)
  3. RGB數值記得要去掉小數點!(無條件捨去)
 
 ### Q2 圖片淡化 - 輸出範例
-![enter image description here](https://github.com/MMD-Training-2019/hw0-test/blob/master/example/west.PNG)
+![原本的範例](https://github.com/MMD-Training-2019/hw0-test/blob/master/example/west.PNG)
 
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
@@ -32,7 +34,7 @@ To start working on this assignment, you should clone this repository into your 
 Note that you should replace `<username>` with your own GitHub username.
 
 ### Dataset
-In the starter code of this repository, we have provided word.txt and sumi.jpg in dataset folder.
+In the starter code of this repository, we have provided `word.txt` and `sumi.jpg` in `dataset` folder.
 
 # Submission Rules
 ### Deadline
