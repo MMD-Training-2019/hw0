@@ -5,8 +5,8 @@ HW0希望確保同學們能夠執行機器學習所需的一些基本操作。
  1. 讀取words.txt中的所有英文單字,英文單字之間皆由<space>做分隔
  2. 按照單字出現的順序,給予編號(0, 1, 2 ...)。 (不要跳號)
  3. 計算單字出現的次數。
- 4. 將得到編號和次數,由<font color="#dd0000">單字出現在words.txt的順序</font><br />輸出至Q1.txt,最後一行不要換行,每一行皆為:<單字><space><編號><space><出現次數>
- 5. <font color="#dd0000">Ntu, ntu 為不同單字</font><br /> 
+ 4. 將得到編號和次數,由**單字出現在words.txt的順序**輸出至Q1.txt,最後一行不要換行,每一行皆為:<單字><space><編號><space><出現次數>
+ 5. **Ntu, ntu 為不同單字**
 
 ### Q1 出現單字統計 - 輸出範例
 words.txt 
@@ -38,7 +38,7 @@ In the starter code of this repository, we have provided `word.txt` and `sumi.jp
 
 # Submission Rules
 ### Deadline
-108/04/17 (Wed.) 01:00 AM
+2019/12/15 (Sun.) 12:00 AM
 
 ### Academic Honesty
 -   If you refer to some parts of the public code, you are required to specify the references in your report (e.g. URL to GitHub repositories).      
